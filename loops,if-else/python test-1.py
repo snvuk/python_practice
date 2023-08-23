@@ -21,10 +21,10 @@ for i in (1,10):
 for i in (5,9):
     print(i)
 
-for i in "python":
+for i in "loops,if-else":
     print(i,end = " ")
 
-for i in "python":
+for i in "loops,if-else":
     print(i,end = "?")
 
 x = 5
